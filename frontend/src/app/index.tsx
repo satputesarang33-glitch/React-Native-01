@@ -256,7 +256,7 @@ export default function Index() {
             {/* EDIT */}
 
             <TouchableOpacity onPress={() => startEdit(item)}>
-              <Text style={styles.edit}>Edit</Text>
+              <Text style={styles.edit}>Edit Sarang</Text>
             </TouchableOpacity>
 
             {/* DELETE */}

@@ -262,7 +262,7 @@ export default function Index() {
             {/* DELETE */}
 
             <TouchableOpacity onPress={() => confirmDelete(item)}>
-              <Text style={styles.delete}>Delete</Text>
+              <Text style={styles.delete}>Delete sarang</Text>
             </TouchableOpacity>
           </View>
         )}

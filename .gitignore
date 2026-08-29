@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
